@@ -1,0 +1,20 @@
+# Ignore Library and Temp folders (auto-generated)
+Library/
+Temp/
+Logs/
+Obj/
+UserSettings/
+# Ignore Build artifacts
+Build/
+Builds/
+# Ignore Unity PackageCache
+Packages/*/
+# Ignore large local settings
+*.user
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
